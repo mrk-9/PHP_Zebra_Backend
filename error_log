@@ -1,0 +1,137 @@
+[21-Nov-2018 19:47:28 Etc/GMT] PHP Warning:  include(/home/parkpvgr/public_html/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/parkpvgr/public_html/system/core/Exceptions.php on line 268
+[21-Nov-2018 19:47:28 Etc/GMT] PHP Warning:  include(): Failed opening '/home/parkpvgr/public_html/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/parkpvgr/public_html/system/core/Exceptions.php on line 268
+[21-Nov-2018 19:47:28 Etc/GMT] PHP Warning:  include(/home/parkpvgr/public_html/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/parkpvgr/public_html/system/core/Exceptions.php on line 268
+[21-Nov-2018 19:47:28 Etc/GMT] PHP Warning:  include(): Failed opening '/home/parkpvgr/public_html/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/parkpvgr/public_html/system/core/Exceptions.php on line 268
+[21-Nov-2018 19:47:28 Etc/GMT] PHP Warning:  include(/home/parkpvgr/public_html/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/parkpvgr/public_html/system/core/Exceptions.php on line 268
+[21-Nov-2018 19:47:28 Etc/GMT] PHP Warning:  include(): Failed opening '/home/parkpvgr/public_html/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/parkpvgr/public_html/system/core/Exceptions.php on line 268
+[21-Nov-2018 19:48:53 Etc/GMT] PHP Warning:  include(/home/parkpvgr/public_html/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/parkpvgr/public_html/system/core/Exceptions.php on line 268
+[21-Nov-2018 19:48:53 Etc/GMT] PHP Warning:  include(): Failed opening '/home/parkpvgr/public_html/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/parkpvgr/public_html/system/core/Exceptions.php on line 268
+[21-Nov-2018 19:48:53 Etc/GMT] PHP Warning:  include(/home/parkpvgr/public_html/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/parkpvgr/public_html/system/core/Exceptions.php on line 268
+[21-Nov-2018 19:48:53 Etc/GMT] PHP Warning:  include(): Failed opening '/home/parkpvgr/public_html/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/parkpvgr/public_html/system/core/Exceptions.php on line 268
+[21-Nov-2018 19:48:53 Etc/GMT] PHP Warning:  include(/home/parkpvgr/public_html/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/parkpvgr/public_html/system/core/Exceptions.php on line 268
+[21-Nov-2018 19:48:53 Etc/GMT] PHP Warning:  include(): Failed opening '/home/parkpvgr/public_html/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/parkpvgr/public_html/system/core/Exceptions.php on line 268
+[21-Nov-2018 19:49:50 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/parkpvgr/public_html/application/views/login.php on line 57
+[21-Nov-2018 19:49:55 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/parkpvgr/public_html/application/views/login.php on line 57
+[21-Nov-2018 19:49:56 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/parkpvgr/public_html/application/views/login.php on line 57
+[21-Nov-2018 19:49:57 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/parkpvgr/public_html/application/views/login.php on line 57
+[21-Nov-2018 19:51:01 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/parkpvgr/public_html/application/views/login.php on line 57
+[21-Nov-2018 19:51:03 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/parkpvgr/public_html/application/views/login.php on line 57
+[21-Nov-2018 19:51:04 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/parkpvgr/public_html/application/views/login.php on line 57
+[21-Nov-2018 19:53:39 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/parkpvgr/public_html/application/views/login.php on line 57
+[21-Nov-2018 19:55:49 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/parkpvgr/public_html/application/views/manage-usersList.php on line 24
+[21-Nov-2018 19:57:11 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/parkpvgr/public_html/application/views/manage-usersList.php on line 24
+[21-Nov-2018 20:03:34 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/parkpvgr/public_html/application/views/manage-usersList.php on line 24
+[23-Nov-2018 09:35:17 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/parkpvgr/public_html/application/views/manage-usersList.php on line 24
+[23-Nov-2018 09:35:42 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/parkpvgr/public_html/application/views/manage-usersList.php on line 24
+[28-Nov-2018 18:43:13 Etc/GMT] PHP Fatal error:  Cannot redeclare class GetVehicleDetails in /home/parkpvgr/public_html/application/models/Api_model.php on line 41
+[28-Nov-2018 18:45:08 Etc/GMT] PHP Fatal error:  Cannot redeclare class GetVehicleDetails in /home/parkpvgr/public_html/application/models/Api_model.php on line 41
+[28-Nov-2018 18:45:15 Etc/GMT] PHP Fatal error:  Cannot redeclare class GetVehicleDetails in /home/parkpvgr/public_html/application/models/Api_model.php on line 41
+[02-Dec-2018 08:29:27 Etc/GMT] PHP Fatal error:  Call to undefined method Login_model::adminProfiles() in /home/parkpvgr/public_html/application/controllers/Welcome.php on line 170
+[02-Dec-2018 08:34:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Api_model.php on line 421
+[02-Dec-2018 08:34:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Api_model.php on line 421
+[02-Dec-2018 08:34:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Api_model.php on line 421
+[02-Dec-2018 08:34:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Api_model.php on line 421
+[02-Dec-2018 08:35:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Api_model.php on line 421
+[02-Dec-2018 08:35:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Api_model.php on line 421
+[02-Dec-2018 08:35:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Api_model.php on line 421
+[02-Dec-2018 08:35:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Api_model.php on line 421
+[02-Dec-2018 08:36:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Api_model.php on line 421
+[02-Dec-2018 08:37:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Api_model.php on line 421
+[02-Dec-2018 08:39:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Api_model.php on line 421
+[02-Dec-2018 08:40:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Api_model.php on line 421
+[02-Dec-2018 08:42:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Api_model.php on line 421
+[11-Dec-2018 09:57:18 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/parkpvgr/public_html/application/models/Api_model.php on line 299
+[11-Dec-2018 10:04:02 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/parkpvgr/public_html/application/models/Api_model.php on line 299
+[11-Dec-2018 13:30:37 Etc/GMT] PHP Fatal error:  Call to undefined method BookingStatusUpdate::get_BookingStatusUpdate() in /home/parkpvgr/public_html/application/controllers/api/BookingStatusUpdate.php on line 12
+[16-Dec-2018 16:10:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[16-Dec-2018 16:10:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[16-Dec-2018 16:10:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[16-Dec-2018 16:11:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[16-Dec-2018 16:11:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[16-Dec-2018 16:12:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[16-Dec-2018 16:12:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[16-Dec-2018 16:12:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[16-Dec-2018 16:12:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[16-Dec-2018 16:13:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[16-Dec-2018 16:13:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[16-Dec-2018 16:13:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[16-Dec-2018 16:16:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[16-Dec-2018 16:16:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[16-Dec-2018 16:17:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/parkpvgr/public_html/application/models/Api_model.php on line 544
+[17-Dec-2018 00:43:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/parkpvgr/public_html/application/models/Api_model.php on line 314
+[17-Dec-2018 00:43:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/parkpvgr/public_html/application/models/Api_model.php on line 314
+[17-Dec-2018 00:43:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/parkpvgr/public_html/application/models/Api_model.php on line 314
+[17-Dec-2018 00:43:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/parkpvgr/public_html/application/models/Api_model.php on line 314
+[17-Dec-2018 00:43:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/parkpvgr/public_html/application/models/Api_model.php on line 314
+[18-Dec-2018 14:55:02 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli as array in /home/parkpvgr/public_html/application/controllers/api/AdvaceBookingStatusCron.php on line 13
+[18-Dec-2018 14:56:02 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli as array in /home/parkpvgr/public_html/application/controllers/api/AdvaceBookingStatusCron.php on line 13
+[18-Dec-2018 14:57:01 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli as array in /home/parkpvgr/public_html/application/controllers/api/AdvaceBookingStatusCron.php on line 13
+[18-Dec-2018 14:58:01 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli as array in /home/parkpvgr/public_html/application/controllers/api/AdvaceBookingStatusCron.php on line 13
+[18-Dec-2018 14:58:49 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli as array in /home/parkpvgr/public_html/application/controllers/api/AdvaceBookingStatusCron.php on line 13
+[18-Dec-2018 14:59:01 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli as array in /home/parkpvgr/public_html/application/controllers/api/AdvaceBookingStatusCron.php on line 13
+[18-Dec-2018 15:00:01 Asia/Kolkata] PHP Fatal error:  Cannot use object of type mysqli as array in /home/parkpvgr/public_html/application/controllers/api/AdvaceBookingStatusCron.php on line 13
+[30-Dec-2018 01:27:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/parkpvgr/public_html/application/models/Api_model.php on line 848
+[30-Dec-2018 01:27:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/parkpvgr/public_html/application/models/Api_model.php on line 848
+[30-Dec-2018 01:28:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/parkpvgr/public_html/application/models/Api_model.php on line 848
+[30-Dec-2018 01:28:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/parkpvgr/public_html/application/models/Api_model.php on line 848
+[30-Dec-2018 01:28:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/parkpvgr/public_html/application/models/Api_model.php on line 848
+[17-Jan-2019 01:21:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/parkpvgr/public_html/application/models/Apinew_model.php on line 845
+[17-Jan-2019 01:21:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/parkpvgr/public_html/application/models/Apinew_model.php on line 845
+[17-Jan-2019 01:21:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/parkpvgr/public_html/application/models/Apinew_model.php on line 845
+[17-Jan-2019 01:32:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/parkpvgr/public_html/application/models/Apinew_model.php on line 845
+[19-Jan-2019 11:49:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Apinew_model.php on line 928
+[19-Jan-2019 11:50:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '@' in /home/parkpvgr/public_html/application/models/Apinew_model.php on line 928
+[25-Feb-2019 15:48:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '') as rows GROUP BY vehicleNum' (T_CONSTANT_ENCAPSED_STRING) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1642
+[25-Feb-2019 15:48:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '') as rows GROUP BY vehicleNum' (T_CONSTANT_ENCAPSED_STRING) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1642
+[25-Feb-2019 15:48:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '') as rows GROUP BY vehicleNum' (T_CONSTANT_ENCAPSED_STRING) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1642
+[25-Feb-2019 15:48:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '') as rows GROUP BY vehicleNum' (T_CONSTANT_ENCAPSED_STRING) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1642
+[26-Feb-2019 00:14:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:14:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:14:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:14:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:14:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:15:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:16:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:16:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:16:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:16:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:16:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:16:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:16:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:16:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:16:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[26-Feb-2019 00:17:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting '&' or variable (T_VARIABLE) in /home/parkpvgr/public_html/development/application/models/Apinew_model.php on line 1078
+[20-Jul-2019 09:53:18 Etc/GMT] PHP Notice:  Constant OFFSET already defined in /home/parkpvgr/public_html/development/application/config/constants.php on line 121
+[20-Jul-2019 09:54:08 Etc/GMT] PHP Notice:  Constant OFFSET already defined in /home/parkpvgr/public_html/development/application/config/constants.php on line 121
+[20-Jul-2019 09:54:28 Etc/GMT] PHP Notice:  Constant OFFSET already defined in /home/parkpvgr/public_html/development/application/config/constants.php on line 121
+[20-Jul-2019 09:55:08 Etc/GMT] PHP Notice:  Constant OFFSET already defined in /home/parkpvgr/public_html/development/application/config/constants.php on line 121
+[19-Oct-2019 21:04:21 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36578304 bytes) in /home/u22whghv9gp5/public_html/application/helpers/api_helper.php on line 4
+[31-Oct-2019 00:58:38 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36578304 bytes) in /home/u22whghv9gp5/public_html/application/helpers/api_helper.php on line 4
+[31-Oct-2019 12:54:37 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36636672 bytes) in /home/u22whghv9gp5/public_html/application/helpers/api_helper.php on line 4
+[31-Oct-2019 12:56:04 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36636672 bytes) in /home/u22whghv9gp5/public_html/application/helpers/api_helper.php on line 4
+[31-Oct-2019 12:57:56 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36636672 bytes) in /home/u22whghv9gp5/public_html/application/helpers/api_helper.php on line 4
+[31-Oct-2019 13:26:19 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36636672 bytes) in /home/u22whghv9gp5/public_html/application/helpers/api_helper.php on line 4
+[31-Oct-2019 13:26:47 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36636672 bytes) in /home/u22whghv9gp5/public_html/application/helpers/api_helper.php on line 4
+[31-Oct-2019 14:05:37 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36578304 bytes) in /home/u22whghv9gp5/public_html/application/helpers/api_helper.php on line 4
+[31-Oct-2019 14:07:11 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36578304 bytes) in /home/u22whghv9gp5/public_html/application/helpers/api_helper.php on line 4
+[31-Oct-2019 14:08:15 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36578304 bytes) in /home/u22whghv9gp5/public_html/application/helpers/api_helper.php on line 4
+[31-Oct-2019 14:09:18 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36578304 bytes) in /home/u22whghv9gp5/public_html/application/helpers/api_helper.php on line 4
+[31-Oct-2019 14:20:00 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36636672 bytes) in /home/u22whghv9gp5/public_html/application/helpers/api_helper.php on line 4
+[31-Oct-2019 14:28:32 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36636672 bytes) in /home/u22whghv9gp5/public_html/application/helpers/api_helper.php on line 4
+[31-Oct-2019 14:29:08 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 36636672 bytes) in /home/u22whghv9gp5/public_html/application/helpers/api_helper.php on line 4

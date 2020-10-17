@@ -1,0 +1,322 @@
+<pre>
+1. Get Access Token
+URL: http://masejat.com/api/GetRequest/AccessToken
+Request:{"masejat":{
+  "deviceId": "123456"
+  }
+}
+++++++
+Response:{
+  "masejat": {
+    "resCode": "1",
+    "resMsg": "Success",
+    "tokenAccess": "12876cb10fd27616f30b5906fd0b33f83ee8a6c95597589820ed8e5d776deef5de15f18045d8b2854f9e4c17e44066c944212c0dc2b2d348067e0b1b2efcc8b0b5597d18c71fc63528b8fcc3a97a72aa08886881cd842b51a8f11edab0f6f0606fa49916a23cd6c5367332c18d217d8d288e5a9b93a498113450f60788d8363e53680812350e502135ed7e14664a73f7e49405ba96bb",
+    "deviceId": "123456",
+    "timestamp": 1569825160
+  }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+2.  Get CharityList
+URL: http://masejat.com/api/GetRequest/CharityList
+Request:{"masejat":{
+  "offset": "0"
+  }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+3.  Add modify and delete CharityList
+URL: http://masejat.com/api/GetRequest/CharityAddModify
+Type  1 =  Add, 2=> update, 3=> delete
+Request:{
+  "masejat": {
+    "name": "rajesh singh",
+    "email":"rksingh@gmail.com",
+    "password":"123456",
+    "type":"1",
+    "charityId":""
+  }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+4.  Get Country List
+URL: http://masejat.com/api/GetRequest/CountryList
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+5.  Add modify and delete CountryAddModify
+URL: http://masejat.com/api/GetRequest/CountryAddModify
+Type  1 =  Add, 2=> update, 3=> delete
+Request:{
+  "masejat": {
+    "name": "rajesh singh",
+    "code": "",
+    "type":"1",
+    "countryId":"",
+    "countryCurrency","INR"
+  }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+6.  Get Mobile Network List
+URL: http://masejat.com/api/GetRequest/MobileNetworkList
+Request:{
+  "masejat": {
+    "countryId":"3"
+  }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+7.  Add modify and delete MobileNetworkAddModify
+URL: http://masejat.com/api/GetRequest/MobileNetworkAddModify
+Type  1 =  Add, 2=> update, 3=> delete
+Request:{
+  "masejat": {
+    "networkName":"vodafone",
+    "countryId":"1",
+    "type":"2",
+    "networkId":"1"
+  }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+8.  Get Contact us List ContactUsMessageList
+URL: http://masejat.com/api/GetRequest/ContactUsMessageList
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+9.   Get All Campaign List
+URL: http://masejat.com/api/GetRequest/CampaignList
+Request:{
+  "masejat": {
+    "offset":"0"
+  }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+10. Get All Project Campaign List
+URL: http://masejat.com/api/GetRequest/ProjectCampaignList
+type = 1 that mean get all project and campaign
+type = 2 that mean get only campaign list
+
+approveRejectStatus => 1 That mean Pending
+approveRejectStatus => 2 That mean Approve
+approveRejectStatus => 3 That mean Reject
+
+recordType =>1 Project
+recordType =>2 Compaign
+
+Request:{
+  "masejat": {
+    "offset":"0",
+    "type":"1",
+    "charityId":"1"
+  }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+11. ApproveRejectCampaign
+URL: http://masejat.com/api/GetRequest/ApproveRejectCampaign
+status = 2 that mean Approve campaign
+status = 3 that mean Reject campaign
+Request:{
+  "masejat": {
+    "campaignId":"1",
+    "status":"2"
+  }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+12. Add new project and campaign
+URL: http://masejat.com/api/GetRequest/AddNewProjectCampaign
+type = 1 that mean Add Project
+type = 2 that mean Add Campaign
+Request:{
+  "masejat": {
+    "charityName":"campaign developemnt",
+    "countryId":"1",
+    "networkId":"1",
+    "type":"2",
+    "campaignImage":"",
+    "charityId":"1",
+    "donationData":[{
+      "amount":"50",
+      "sms":"78548"
+    },{
+      "amount":"100",
+      "sms":"64548"
+    }]
+  }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+13. update project and campaign
+URL: http://masejat.com/api/GetRequest/UpdateProjectCampaign
+type = 1 that mean Add Project
+type = 2 that mean Add Campaign
+Request:{
+  "masejat": {
+    "projectCampaignId":"4",
+    "charityName":"campaign project developemnt",
+    "countryId":"1",
+    "networkId":"1",
+    "type":"2",
+    "campaignImage":"",
+    "charityId":"1",
+    "donationData":[{
+      "amount":"50",
+      "sms":"78548"
+    },{
+      "amount":"100",
+      "sms":"64548"
+    }]
+  }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+14. Delete project and campaign
+URL: http://masejat.com/api/GetRequest/DeleteProjectCampaign
+Request:{
+  "masejat": {
+    "projectCampaignId":"4"
+  }
+}
+++++++++++++++++++++++++++++++++++++++++++++++++++
+15. login admin and charity
+URL: http://masejat.com/api/GetRequest/LoginAdminCharity
+loginType = 1 that mean admin login
+loginType = 2 that mean charity login
+deviceType = 1 android 
+deviceType = 2 IOS
+Request:{
+  "masejat": {
+    "email": "rksingh@gmail.com",
+    "password": "123456",
+    "deviceName": "vy66",
+    "deviceOs": "android",
+    "deviceType": "1",
+    "deviceId": "41254568",
+    "loginType": "2"
+  }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+16. Customer login
+URL: http://masejat.com/api/GetRequest/LoginCustomer
+deviceType = 1 android 
+deviceType = 2 IOS
+Request:{
+  "masejat": {
+    "name": "rajesh singh",
+    "number": "9452135246",
+    "mobileNetworkId": "1",
+    "countryId": "1",
+    "countryCode": "+91",
+    "deviceName": "vivo y66",
+    "deviceOs": "android",
+    "deviceType": "1",
+    "deviceId": "4587595"
+  }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+17. Add contact
+URL: http://masejat.com/api/GetRequest/AddContact
+Request:{
+  "masejat": {
+    "title": "development testing",
+    "message": "hello i am testing here",
+    "userId": "1"
+  }
+}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+18. customer update
+URL:http://masejat.com/api/GetRequest/CustomerUpdate
+Request:{
+  "masejat": {
+    "name": "",
+    "mobileNetworkId": "",
+    "countryId": "",
+    "countryCode": "",
+    "profile": "",
+    "userId": ""
+  }
+}
+++++++++++++++++++++++++++++++++++++++++++++++++++
+19. Donation Add
+URL: http://masejat.com/api/GetRequest/DonationAdd
+Request:{
+  "masejat": {
+    "userId": "1",
+    "projectCampaignId": "1",
+    "donationAmount": "500"
+  }
+}
+++++++++++++++++++++++++++++++++++++++++++++++++++
+20.  Change Donation Status
+URL: http://masejat.com/api/GetRequest/ChangeDonationStatus
+status 2 => Approved, status 3 => Cancle
+Request:{
+  "masejat": {
+    "donationId": "1",
+    "status": "2"
+  }
+}
+++++++++++++++++++++++++++++++++++++++++++++++++++
+21. Update Charity Org
+URL: http://masejat.com/api/GetRequest/CharityUpdateProfile
+Request:{
+  "masejat": {
+    "userId": "1",
+    "name": "2",
+    "profile":"",
+    "aboutUs":"",
+    "phoneNumber":"",
+    "countryId":"",
+    "websiteLink":""
+  }
+}
+++++++++++++++++++++++++++++++++++++++++++++++++++
+22. Charity Change Passowd
+URL: http://masejat.com/api/GetRequest/CharityChangePassword
+Request:{
+  "masejat": {
+    "userId": "1",
+    "oldPassword": "2",
+    "newPassword":""
+  }
+}
+++++++++++++++++++++++++++++++++++++++++++++++++++
+23. User Related Charity List
+URL: http://masejat.com/api/GetRequest/UserRelatedCharityList
+Request:{
+  "masejat": {
+    "userId": "1",
+    "networkId": "",
+    "countryId":""
+  }
+}
+++++++++++++++++++++++++++++++++++++++++++++++++++
+24. Charity Details
+URL: http://masejat.com/api/GetRequest/CharityDetails
+Request:{
+  "masejat": {
+    "charityId": "1"
+  }
+}
+++++++++++++++++++++++++++++++++++++++++++++++++++
+25. User Charity Done List
+URL: http://masejat.com/api/GetRequest/UserCharityDone
+Request:{
+  "masejat": {
+    "userId": "1"
+  }
+}
+++++++++++++++++++++++++++++++++++++++++++++++++++
+26. Charity Received Amount
+URL: http://masejat.com/api/GetRequest/CharityReceivedAmount
+Request:{
+  "masejat":{
+    "charityId": "1"
+  }
+}
+</pre>
